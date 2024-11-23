@@ -1,0 +1,15 @@
+/home/rinat/csharp_projects/project2/bin/Debug/net7.0/project2
+/home/rinat/csharp_projects/project2/bin/Debug/net7.0/project2.deps.json
+/home/rinat/csharp_projects/project2/bin/Debug/net7.0/project2.runtimeconfig.json
+/home/rinat/csharp_projects/project2/bin/Debug/net7.0/project2.dll
+/home/rinat/csharp_projects/project2/bin/Debug/net7.0/project2.pdb
+/home/rinat/csharp_projects/project2/obj/Debug/net7.0/project2.csproj.AssemblyReference.cache
+/home/rinat/csharp_projects/project2/obj/Debug/net7.0/project2.GeneratedMSBuildEditorConfig.editorconfig
+/home/rinat/csharp_projects/project2/obj/Debug/net7.0/project2.AssemblyInfoInputs.cache
+/home/rinat/csharp_projects/project2/obj/Debug/net7.0/project2.AssemblyInfo.cs
+/home/rinat/csharp_projects/project2/obj/Debug/net7.0/project2.csproj.CoreCompileInputs.cache
+/home/rinat/csharp_projects/project2/obj/Debug/net7.0/project2.dll
+/home/rinat/csharp_projects/project2/obj/Debug/net7.0/refint/project2.dll
+/home/rinat/csharp_projects/project2/obj/Debug/net7.0/project2.pdb
+/home/rinat/csharp_projects/project2/obj/Debug/net7.0/project2.genruntimeconfig.cache
+/home/rinat/csharp_projects/project2/obj/Debug/net7.0/ref/project2.dll

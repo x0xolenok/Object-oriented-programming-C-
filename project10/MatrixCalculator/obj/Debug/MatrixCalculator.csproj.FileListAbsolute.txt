@@ -1,0 +1,58 @@
+C:\Users\Чехолин\Documents\Visual Studio 2015\Projects\MatrixCalculator\MatrixCalculator\bin\Debug\MatrixCalculator.exe.config
+C:\Users\Чехолин\Documents\Visual Studio 2015\Projects\MatrixCalculator\MatrixCalculator\bin\Debug\MatrixCalculator.exe
+C:\Users\Чехолин\Documents\Visual Studio 2015\Projects\MatrixCalculator\MatrixCalculator\bin\Debug\MatrixCalculator.pdb
+C:\Users\Чехолин\Documents\Visual Studio 2015\Projects\MatrixCalculator\MatrixCalculator\obj\Debug\MatrixCalculator.csprojResolveAssemblyReference.cache
+C:\Users\Чехолин\Documents\Visual Studio 2015\Projects\MatrixCalculator\MatrixCalculator\obj\Debug\MainWindow.g.cs
+C:\Users\Чехолин\Documents\Visual Studio 2015\Projects\MatrixCalculator\MatrixCalculator\obj\Debug\App.g.cs
+C:\Users\Чехолин\Documents\Visual Studio 2015\Projects\MatrixCalculator\MatrixCalculator\obj\Debug\MatrixCalculator_MarkupCompile.cache
+C:\Users\Чехолин\Documents\Visual Studio 2015\Projects\MatrixCalculator\MatrixCalculator\obj\Debug\MatrixCalculator_MarkupCompile.lref
+C:\Users\Чехолин\Documents\Visual Studio 2015\Projects\MatrixCalculator\MatrixCalculator\obj\Debug\MainWindow.baml
+C:\Users\Чехолин\Documents\Visual Studio 2015\Projects\MatrixCalculator\MatrixCalculator\obj\Debug\MatrixCalculator.g.resources
+C:\Users\Чехолин\Documents\Visual Studio 2015\Projects\MatrixCalculator\MatrixCalculator\obj\Debug\MatrixCalculator.Properties.Resources.resources
+C:\Users\Чехолин\Documents\Visual Studio 2015\Projects\MatrixCalculator\MatrixCalculator\obj\Debug\MatrixCalculator.csproj.GenerateResource.Cache
+C:\Users\Чехолин\Documents\Visual Studio 2015\Projects\MatrixCalculator\MatrixCalculator\obj\Debug\MatrixCalculator.exe
+C:\Users\Чехолин\Documents\Visual Studio 2015\Projects\MatrixCalculator\MatrixCalculator\obj\Debug\MatrixCalculator.pdb
+C:\Users\Acer\Downloads\Matrix-Calculator\Matrix-Calculator-master\MatrixCalculator\bin\Debug\MatrixCalculator.exe.config
+C:\Users\Acer\Downloads\Matrix-Calculator\Matrix-Calculator-master\MatrixCalculator\bin\Debug\MatrixCalculator.exe
+C:\Users\Acer\Downloads\Matrix-Calculator\Matrix-Calculator-master\MatrixCalculator\bin\Debug\MatrixCalculator.pdb
+C:\Users\Acer\Downloads\Matrix-Calculator\Matrix-Calculator-master\MatrixCalculator\obj\Debug\MatrixCalculator.csprojAssemblyReference.cache
+C:\Users\Acer\Downloads\Matrix-Calculator\Matrix-Calculator-master\MatrixCalculator\obj\Debug\MainWindow.baml
+C:\Users\Acer\Downloads\Matrix-Calculator\Matrix-Calculator-master\MatrixCalculator\obj\Debug\MainWindow.g.cs
+C:\Users\Acer\Downloads\Matrix-Calculator\Matrix-Calculator-master\MatrixCalculator\obj\Debug\App.g.cs
+C:\Users\Acer\Downloads\Matrix-Calculator\Matrix-Calculator-master\MatrixCalculator\obj\Debug\MatrixCalculator_MarkupCompile.cache
+C:\Users\Acer\Downloads\Matrix-Calculator\Matrix-Calculator-master\MatrixCalculator\obj\Debug\MatrixCalculator.g.resources
+C:\Users\Acer\Downloads\Matrix-Calculator\Matrix-Calculator-master\MatrixCalculator\obj\Debug\MatrixCalculator.Properties.Resources.resources
+C:\Users\Acer\Downloads\Matrix-Calculator\Matrix-Calculator-master\MatrixCalculator\obj\Debug\MatrixCalculator.csproj.GenerateResource.cache
+C:\Users\Acer\Downloads\Matrix-Calculator\Matrix-Calculator-master\MatrixCalculator\obj\Debug\MatrixCalculator.csproj.CoreCompileInputs.cache
+C:\Users\Acer\Downloads\Matrix-Calculator\Matrix-Calculator-master\MatrixCalculator\obj\Debug\MatrixCalculator.exe
+C:\Users\Acer\Downloads\Matrix-Calculator\Matrix-Calculator-master\MatrixCalculator\obj\Debug\MatrixCalculator.pdb
+D:\Проgекты\3-kurs\С#\12laba\Matrix-Calculator\MatrixCalculator\bin\Debug\MatrixCalculator.exe.config
+D:\Проgекты\3-kurs\С#\12laba\Matrix-Calculator\MatrixCalculator\bin\Debug\MatrixCalculator.exe
+D:\Проgекты\3-kurs\С#\12laba\Matrix-Calculator\MatrixCalculator\bin\Debug\MatrixCalculator.pdb
+D:\Проgекты\3-kurs\С#\12laba\Matrix-Calculator\MatrixCalculator\obj\Debug\MatrixCalculator.csprojAssemblyReference.cache
+D:\Проgекты\3-kurs\С#\12laba\Matrix-Calculator\MatrixCalculator\obj\Debug\MainWindow.baml
+D:\Проgекты\3-kurs\С#\12laba\Matrix-Calculator\MatrixCalculator\obj\Debug\MainWindow.g.cs
+D:\Проgекты\3-kurs\С#\12laba\Matrix-Calculator\MatrixCalculator\obj\Debug\App.g.cs
+D:\Проgекты\3-kurs\С#\12laba\Matrix-Calculator\MatrixCalculator\obj\Debug\MatrixCalculator_MarkupCompile.cache
+D:\Проgекты\3-kurs\С#\12laba\Matrix-Calculator\MatrixCalculator\obj\Debug\MatrixCalculator.g.resources
+D:\Проgекты\3-kurs\С#\12laba\Matrix-Calculator\MatrixCalculator\obj\Debug\MatrixCalculator.Properties.Resources.resources
+D:\Проgекты\3-kurs\С#\12laba\Matrix-Calculator\MatrixCalculator\obj\Debug\MatrixCalculator.csproj.GenerateResource.cache
+D:\Проgекты\3-kurs\С#\12laba\Matrix-Calculator\MatrixCalculator\obj\Debug\MatrixCalculator.csproj.CoreCompileInputs.cache
+D:\Проgекты\3-kurs\С#\12laba\Matrix-Calculator\MatrixCalculator\obj\Debug\MatrixCalculator.exe
+D:\Проgекты\3-kurs\С#\12laba\Matrix-Calculator\MatrixCalculator\obj\Debug\MatrixCalculator.pdb
+D:\KPI\Hometasks\Matrix-Calculator\MatrixCalculator\bin\Debug\MatrixCalculator.exe.config
+D:\KPI\Hometasks\Matrix-Calculator\MatrixCalculator\bin\Debug\MatrixCalculator.exe
+D:\KPI\Hometasks\Matrix-Calculator\MatrixCalculator\bin\Debug\MatrixCalculator.pdb
+D:\KPI\Hometasks\Matrix-Calculator\MatrixCalculator\obj\Debug\MatrixCalculator.csproj.AssemblyReference.cache
+D:\KPI\Hometasks\Matrix-Calculator\MatrixCalculator\obj\Debug\MainWindow.baml
+D:\KPI\Hometasks\Matrix-Calculator\MatrixCalculator\obj\Debug\MainWindow.g.cs
+D:\KPI\Hometasks\Matrix-Calculator\MatrixCalculator\obj\Debug\App.g.cs
+D:\KPI\Hometasks\Matrix-Calculator\MatrixCalculator\obj\Debug\MatrixCalculator_MarkupCompile.cache
+D:\KPI\Hometasks\Matrix-Calculator\MatrixCalculator\obj\Debug\MatrixCalculator.g.resources
+D:\KPI\Hometasks\Matrix-Calculator\MatrixCalculator\obj\Debug\MatrixCalculator.Properties.Resources.resources
+D:\KPI\Hometasks\Matrix-Calculator\MatrixCalculator\obj\Debug\MatrixCalculator.csproj.GenerateResource.cache
+D:\KPI\Hometasks\Matrix-Calculator\MatrixCalculator\obj\Debug\MatrixCalculator.csproj.CoreCompileInputs.cache
+D:\KPI\Hometasks\Matrix-Calculator\MatrixCalculator\obj\Debug\MatrixCalculator.exe
+D:\KPI\Hometasks\Matrix-Calculator\MatrixCalculator\obj\Debug\MatrixCalculator.pdb
+D:\KPI\Hometasks\Matrix-Calculator\MatrixCalculator\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\KPI\Hometasks\Matrix-Calculator\MatrixCalculator\obj\Debug\MatrixCalculator_MarkupCompile.lref

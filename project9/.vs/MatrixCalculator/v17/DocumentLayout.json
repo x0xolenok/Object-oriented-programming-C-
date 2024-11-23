@@ -1,0 +1,104 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\KPI\\Hometasks\\Matrix-Calculator\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{198F2F34-A3A3-467B-A9F0-58AB7DCC8968}|MatrixCalculator\\MatrixCalculator.csproj|d:\\kpi\\hometasks\\matrix-calculator\\matrixcalculator\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{198F2F34-A3A3-467B-A9F0-58AB7DCC8968}|MatrixCalculator\\MatrixCalculator.csproj|solutionrelative:matrixcalculator\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{198F2F34-A3A3-467B-A9F0-58AB7DCC8968}|MatrixCalculator\\MatrixCalculator.csproj|d:\\kpi\\hometasks\\matrix-calculator\\matrixcalculator\\matrixextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{198F2F34-A3A3-467B-A9F0-58AB7DCC8968}|MatrixCalculator\\MatrixCalculator.csproj|solutionrelative:matrixcalculator\\matrixextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{198F2F34-A3A3-467B-A9F0-58AB7DCC8968}|MatrixCalculator\\MatrixCalculator.csproj|d:\\kpi\\hometasks\\matrix-calculator\\matrixcalculator\\matrix.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{198F2F34-A3A3-467B-A9F0-58AB7DCC8968}|MatrixCalculator\\MatrixCalculator.csproj|solutionrelative:matrixcalculator\\matrix.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{198F2F34-A3A3-467B-A9F0-58AB7DCC8968}|MatrixCalculator\\MatrixCalculator.csproj|d:\\kpi\\hometasks\\matrix-calculator\\matrixcalculator\\datatableextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{198F2F34-A3A3-467B-A9F0-58AB7DCC8968}|MatrixCalculator\\MatrixCalculator.csproj|solutionrelative:matrixcalculator\\datatableextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{198F2F34-A3A3-467B-A9F0-58AB7DCC8968}|MatrixCalculator\\MatrixCalculator.csproj|d:\\kpi\\hometasks\\matrix-calculator\\matrixcalculator\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{198F2F34-A3A3-467B-A9F0-58AB7DCC8968}|MatrixCalculator\\MatrixCalculator.csproj|solutionrelative:matrixcalculator\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DataTableExtension.cs",
+              "DocumentMoniker": "D:\\KPI\\Hometasks\\Matrix-Calculator\\MatrixCalculator\\DataTableExtension.cs",
+              "RelativeDocumentMoniker": "MatrixCalculator\\DataTableExtension.cs",
+              "ToolTip": "D:\\KPI\\Hometasks\\Matrix-Calculator\\MatrixCalculator\\DataTableExtension.cs",
+              "RelativeToolTip": "MatrixCalculator\\DataTableExtension.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T09:27:41.446Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "D:\\KPI\\Hometasks\\Matrix-Calculator\\MatrixCalculator\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "MatrixCalculator\\MainWindow.xaml.cs",
+              "ToolTip": "D:\\KPI\\Hometasks\\Matrix-Calculator\\MatrixCalculator\\MainWindow.xaml.cs",
+              "RelativeToolTip": "MatrixCalculator\\MainWindow.xaml.cs",
+              "ViewState": "AQIAAHYAAAAAAAAAAADwv4sAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T09:24:39.908Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MatrixExtension.cs",
+              "DocumentMoniker": "D:\\KPI\\Hometasks\\Matrix-Calculator\\MatrixCalculator\\MatrixExtension.cs",
+              "RelativeDocumentMoniker": "MatrixCalculator\\MatrixExtension.cs",
+              "ToolTip": "D:\\KPI\\Hometasks\\Matrix-Calculator\\MatrixCalculator\\MatrixExtension.cs",
+              "RelativeToolTip": "MatrixCalculator\\MatrixExtension.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T09:24:36.474Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Matrix.cs",
+              "DocumentMoniker": "D:\\KPI\\Hometasks\\Matrix-Calculator\\MatrixCalculator\\Matrix.cs",
+              "RelativeDocumentMoniker": "MatrixCalculator\\Matrix.cs",
+              "ToolTip": "D:\\KPI\\Hometasks\\Matrix-Calculator\\MatrixCalculator\\Matrix.cs",
+              "RelativeToolTip": "MatrixCalculator\\Matrix.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAKoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T09:24:31.199Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "D:\\KPI\\Hometasks\\Matrix-Calculator\\MatrixCalculator\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "MatrixCalculator\\MainWindow.xaml",
+              "ToolTip": "D:\\KPI\\Hometasks\\Matrix-Calculator\\MatrixCalculator\\MainWindow.xaml",
+              "RelativeToolTip": "MatrixCalculator\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-26T09:24:11.506Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

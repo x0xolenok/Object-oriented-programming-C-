@@ -1,0 +1,80 @@
+﻿<Window
+    x:Class="MatrixCalculator.MainWindow"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    xmlns:local="clr-namespace:MatrixCalculator"
+    Title="Matrix"
+    Width="992.166"
+    Height="447.721"
+    ResizeMode="NoResize"
+    mc:Ignorable="d">
+
+    <Window.DataContext>
+        <local:MainViewModel />
+    </Window.DataContext>
+
+    <Window.Resources>
+        <Style TargetType="DataGrid">
+            <Setter Property="Width" Value="230" />
+            <Setter Property="Height" Value="206" />
+            <Setter Property="HorizontalAlignment" Value="Left" />
+            <Setter Property="VerticalAlignment" Value="Top" />
+            <Setter Property="CanUserAddRows" Value="False" />
+            <Setter Property="HeadersVisibility" Value="None" />
+            <Setter Property="RowHeight" Value="20" />
+            <Setter Property="MinColumnWidth" Value="30" />
+            <Setter Property="ColumnWidth" Value="*" />
+            <Setter Property="ItemsSource" Value="{Binding}" />
+            <Setter Property="ScrollViewer.CanContentScroll" Value="True" />
+        </Style>
+        <Style TargetType="TextBox">
+            <Setter Property="Width" Value="28" />
+            <Setter Property="Height" Value="23" />
+            <Setter Property="HorizontalAlignment" Value="Left" />
+            <Setter Property="VerticalAlignment" Value="Top" />
+            <Setter Property="TextWrapping" Value="Wrap" />
+            <Setter Property="Text" Value="" />
+            <Setter Property="VerticalContentAlignment" Value="Center" />
+            <Setter Property="HorizontalContentAlignment" Value="Center" />
+            <Setter Property="MaxLength" Value="2" />
+        </Style>
+        <Style TargetType="RadioButton">
+            <Setter Property="Height" Value="auto" />
+            <Setter Property="Margin" Value="10" />
+            <Setter Property="HorizontalAlignment" Value="Left" />
+            <Setter Property="RenderTransformOrigin" Value="0.458,2.64" />
+        </Style>
+        <Style TargetType="Button">
+            <Setter Property="Background" Value="Moccasin" />
+            <Setter Property="HorizontalAlignment" Value="Left" />
+            <Setter Property="VerticalAlignment" Value="Top" />
+        </Style>
+    </Window.Resources>
+
+    <Grid Margin="0,0,0,0.5">
+        <DataGrid x:Name="DataGridMatrixA" Margin="62,75,0,0" ItemsSource="{Binding MatrixA}" AutoGenerateColumns="True" />
+        <DataGrid x:Name="DataGridMatrixB" Margin="374,75,0,0" ItemsSource="{Binding MatrixB}" AutoGenerateColumns="True" />
+        <DataGrid x:Name="DataGridMatrixC" Margin="701,75,0,0" ItemsSource="{Binding MatrixC}" IsReadOnly="True" AutoGenerateColumns="True" />
+        <StackPanel Width="47" Height="auto" Margin="311,126,0,0" HorizontalAlignment="Left" VerticalAlignment="Top">
+            <RadioButton Content="+" IsChecked="{Binding IsAddition}" />
+            <RadioButton Content="-" IsChecked="{Binding IsSubtraction}" />
+            <RadioButton Content="*" IsChecked="{Binding IsMultiplication}" />
+        </StackPanel>
+        <TextBlock Text="Размерность матрицы А:" Width="77" Height="34" Margin="62,29,0,0" HorizontalAlignment="Left" VerticalAlignment="Top" TextWrapping="Wrap" />
+        <TextBox Text="{Binding RowsNumMatrixA}" Width="28" Height="23" Margin="147,33,0,0" />
+        <TextBox Text="{Binding ColumnsNumMatrixA}" Width="28" Height="23" Margin="197,33,0,0" />
+        <Label Content="х" Width="22" Margin="175,29,0,0" HorizontalAlignment="Left" VerticalAlignment="Top" HorizontalContentAlignment="Center" />
+        <Button Content="ОК" Width="50" Margin="242,36,0,0" Command="{Binding CreateMatrixACommand}" />
+
+        <TextBlock Text="Размерность матрицы B:" Width="77" Height="34" Margin="374,29,0,0" HorizontalAlignment="Left" VerticalAlignment="Top" TextWrapping="Wrap" />
+        <TextBox Text="{Binding RowsNumMatrixB}" Width="28" Height="23" Margin="459,33,0,0" />
+        <TextBox Text="{Binding ColumnsNumMatrixB}" Width="28" Height="23" Margin="509,33,0,0" />
+        <Label Content="х" Width="22" Margin="487,29,0,0" HorizontalAlignment="Left" VerticalAlignment="Top" HorizontalContentAlignment="Center" />
+        <Button Content="ОК" Width="49" Margin="555,36,0,0" Command="{Binding CreateMatrixBCommand}" />
+
+        <Label Content="Результирующая матрица C:" Margin="701,29,0,0" HorizontalAlignment="Left" VerticalAlignment="Top" />
+        <Button Content="=" Width="60" Height="50" Margin="622,92,0,0" Command="{Binding CalculateMatricesCommand}" FontSize="22" />
+    </Grid>
+</Window>
